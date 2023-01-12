@@ -129,7 +129,7 @@ body{
     background-color: #f3eeeb;
     box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.363),
      0 3px 10px 0 rgba(0, 0, 0, 0.075);
-    height: 250px;
+    height: 380px;
   }
   .descricao h5{
     font-size: 25px;
@@ -261,7 +261,7 @@ body{
   
   .especialidades{
     background-color: #1f282d;
-    padding: 2% 9%;
+    padding: 2% 5%;
   }
   .especialidades h3{
     text-align: center;
@@ -300,14 +300,14 @@ body{
     background-color: #f3eeeb;
     box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.363),
      0 3px 10px 0 rgba(0, 0, 0, 0.075);
-    height: 350px;
+    height: 470px;
   }
   .descricao h5{
     font-size: 25px;
     margin: 0;
   }
   .descricao p{
-    font-size: 18px;
+    font-size: 17px;
     /* color: #272727d2; */
   }
   .imagem-descricao{
@@ -444,7 +444,8 @@ body{
   }
   .box{
     margin: 10px;
-    flex-grow: 19%;
+    width: 25%;
+    /* flex-grow: 19%; */
     text-align: center;
   }
   .redondo{
@@ -465,7 +466,7 @@ body{
     background-color: #f3eeeb;
     box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.363),
      0 3px 10px 0 rgba(0, 0, 0, 0.075);
-    height: 350px;
+    height: 465px;
   }
   .descricao h5{
     font-size: 25px;
